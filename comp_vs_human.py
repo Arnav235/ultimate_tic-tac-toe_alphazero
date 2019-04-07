@@ -15,7 +15,7 @@ import h5py
 import copy
 
 # Hyperparameters
-model_path = "Ultimate2019-03-05 22_20_40+MCTS600+cpuct4.h5"
+model_path = "GoodUltimate2019-03-03 21_06_38+MCTS600+cpuct4.h5"
 mcts_search = 400
 MCTS = True
 cpuct = 2
